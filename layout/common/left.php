@@ -21,8 +21,8 @@
                             <i class="fas fa-chevron-right"></i>
                             </span>
                 <ul class="sub_pages">
-                    <li><a href="./">Create</a></li>
-                    <li><a href="./">List Users</a></li>
+                    <li><a href="./../Manage_user/AddUser.php">Create</a></li>
+                    <li><a href="./../Manage_user/ListUsers.php">List Users</a></li>
                 </ul>
                 </li>
                 <li class="page">Phiếu nhập<span id='icon'>
